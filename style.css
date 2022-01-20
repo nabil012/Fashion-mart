@@ -1,0 +1,15 @@
+button {
+  background-color: #7ebe35;
+  color: rgb(255, 255, 255);
+  width: 130px;
+  height: 50px;
+}
+.btn-primary {
+  background-color: #7ebe35 !important;
+}
+.btn {
+  background-color: #7ebe35;
+  color: rgb(255, 255, 255);
+  width: 150px;
+  height: 50px;
+}
